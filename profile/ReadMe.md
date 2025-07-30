@@ -4,24 +4,24 @@ Welcome to the Hello Tractor GitHub Org! We’re a pan-African agritech company 
 
 We deploy connected tractors, custom logistics systems, smart apps, and embeddable tools to create reliable, affordable access to mechanization across 18+ African countries.
 
-## 🔍 What We Build
+## What We Build
 
 This GitHub org contains public-facing tools, APIs, and SDKs used in our developer and partner ecosystem.
 
-### 👇 Our Core Tech:
+## What we’re building:
 
-- **Fleet Manager:** Monitor usage, fuel, location, and health of equipment in real time
-- **Booking Systems:** End-to-end request flow for tractor services
-- **Book Now Widget:** Easy-to-deploy UI widget to embed Hello Tractor services in your own apps/sites
-- **Data Intelligence Layer:** Internal machine learning tooling to support demand prediction, routing, and targeting
+- 🧠 **Fleet management** — Monitor usage, fuel, location, and health of equipment in real time
+- 📲 **Farmer and Operator Apps** — Lightweight, offline-first apps that connect 2M+ farmers to services, financing, and training.
+- 🧩 **Book Now Widgets** — Embeddable tools for partners and businesses to bring Hello Tractor services anywhere.
+- 🌍 **APIs + SDKs** — We’re opening up our platform so agribusinesses, partners, and innovators can build on top of our rails.
 
-### 👥 Who Uses Our Tech?
+### Who Uses Our Tech?
 
 - Farmers, booking agents, tractor owners, NGOs, governments
 - Partners embedding Hello Tractor services
 - Developers building integrations or research tools
 
-## 📦 Upcoming Releases
+## Upcoming Releases
 
 We’re actively working on:
 
@@ -29,7 +29,7 @@ We’re actively working on:
 - JS/TS SDK for integrating our services
 - React component library (widgets & admin UI)
 
-## 📫 Get Involved
+## Get Involved
 
 Want to build with us or integrate with our systems?
 
